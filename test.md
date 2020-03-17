@@ -21,3 +21,31 @@ saya sekarang lagi ngoding bareng auzan wkwkwk
 1. Tidy the kitchen
 2. Prepare ingredients
 3. Cook delicious things
+
+``` java
+
+class HelloWorld{
+    public static void main(String[] argumen){
+        System.out.println("Hello World!");
+    }
+}
+
+```
+
+
+saya sekarang sedang belajar markdown
+
+**Tugas hari ini:**
+
+- [x] Menulis artikel tentang markdown
+- [ ] Belajar javascript 
+- [ ] Belajar MERN stack
+- [x] Membuat website dengan JS
+
+>everything you can do now , you can do it later.
+ 
+ 
+| nama  | usia |
+| ----- | --- |
+| joss   | 21  |
+| aye | 23  |
